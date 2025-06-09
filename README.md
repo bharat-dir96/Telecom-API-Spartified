@@ -70,7 +70,7 @@ mongodb+srv://<username>:<password>@<cluster>.mongodb.net/telecomdb
 
 ---
 
-## 🔢 3. Environment Variables
+### 3. Environment Variables
 
 * Create a `.env` File in the root directory (if using dotenv library)
 
