@@ -1,0 +1,9 @@
+com\spartified\telecomApi\TelecomApplication.class
+com\spartified\telecomApi\contoller\HealthCheck.class
+com\spartified\telecomApi\config\OpenApiConfig.class
+com\spartified\telecomApi\config\EnvLoader.class
+com\spartified\telecomApi\entity\TelecomEntry.class
+com\spartified\telecomApi\repository\TelecomEntryRepository.class
+com\spartified\telecomApi\contoller\TelecomEntryController.class
+com\spartified\telecomApi\exception\GlobalExceptionHandler.class
+com\spartified\telecomApi\service\TelecomEntryService.class
